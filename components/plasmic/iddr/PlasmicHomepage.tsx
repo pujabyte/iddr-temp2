@@ -1122,7 +1122,7 @@ function PlasmicHomepage__RenderFunc(props: {
                     desc: "Indonesia Digital Rupiah Collateral Report - 1 Des 2023",
                     date: "Last Updated, 1 Des 2023",
                     url: [
-                      "https://www.iddr.io/IDDR-Collateral-Report-30-Nov-2023"
+                      "https://www.iddr.io/IDDR-Collateral-Report-30-Nov-2023.pdf"
                     ]
                   }
                 ]}
